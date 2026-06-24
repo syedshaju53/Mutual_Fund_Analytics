@@ -1,0 +1,19 @@
+Day 1 Data Quality Report
+
+Datasets loaded:
+10 CSV datasets
+
+Checks:
+- Shape verified
+- Data types verified
+- Missing values checked
+- Duplicate records checked
+
+NAV API:
+MFAPI used successfully
+
+AMFI Validation:
+All scheme codes matched
+
+Status:
+Day 1 Completed 
